@@ -1,8 +1,27 @@
-# Getting Started with Create React App
+# シナリオテキストのコピーを楽にするChrome拡張機能
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+コピーを楽にするためのウィンドウを表示させる拡張機能のコードです。
 
-## Available Scripts
+## 使い方
+
+準備中
+
+### コミット名規則
+
+`chore`
+タスクファイルなどプロダクションに影響のない修正
+`docs`
+ドキュメントの更新
+`feat`
+ユーザー向けの機能の追加や変更
+`fix`
+ユーザー向けの不具合の修正
+`refactor`
+リファクタリングを目的とした修正
+`style`
+フォーマットなどのスタイルに関する修正
+`test`
+テストコードの追加や修正
 
 In the project directory, you can run:
 
