@@ -8,19 +8,19 @@
 
 ### コミット名規則
 
-`chore`
+`chore`\
 タスクファイルなどプロダクションに影響のない修正
-`docs`
+`docs`\
 ドキュメントの更新
-`feat`
+`feat`\
 ユーザー向けの機能の追加や変更
-`fix`
+`fix`\
 ユーザー向けの不具合の修正
-`refactor`
+`refactor`\
 リファクタリングを目的とした修正
-`style`
+`style`\
 フォーマットなどのスタイルに関する修正
-`test`
+`test`\
 テストコードの追加や修正
 
 In the project directory, you can run:
